@@ -1,0 +1,96 @@
+*   {
+    margin: 0;
+    font-family: arial;
+    font-size: 35;
+    
+}
+
+a   {
+    font-size: 26;
+}
+
+img {   
+   
+    border-radius: 50px;
+}
+
+.main-heading   {
+    padding: 100 0 150 0;
+    text-align: center;
+    background-color: gray;
+}
+.batman {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: black;
+    color: white;
+}
+
+.superman   {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: gray;
+    
+}
+
+.wonder-woman   {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: black;
+    color: white;
+}
+
+.cyborg {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: gray;
+}
+
+.aquaman    {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: black;
+    color: white;
+}
+
+.the-flash  {
+    display: flex;
+    padding: 300ox;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100 0 100 0;
+    background-color: gray;
+}
+
+img {
+    height: 432;
+    width: 768;
+}
+
+div:hover  {
+    font-size: 45;
+    letter-spacing: 5;
+    transition:1s;
+}
+
+.back-buttom    {
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+}

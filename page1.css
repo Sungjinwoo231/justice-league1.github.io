@@ -1,0 +1,87 @@
+    *   {
+    margin: 0;
+    font-family:  Arial;
+    font-weight: bold;
+    
+    
+   
+}
+
+.heading    {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-heading {
+    text-align: center  ;
+    color: black;
+    padding: 100 0 100 0;
+    font-size: 29;
+}
+
+.sub-heading {
+    position: relative;
+    top: 120;
+    display: flex;
+    gap: 100px;
+    font-size: 20;
+   
+}
+
+.sub-heading div:hover {
+    letter-spacing: 1.5;
+    transition: 1s;
+    
+}
+
+.sub-heading a 
+{
+    text-decoration: none;
+    color: black;
+}
+
+.abvout-movie
+{
+color: white;
+}
+
+.about-movie {
+   padding-top: 100;
+   padding-bottom: 100;
+    display: flex;
+    justify-content: space-around;
+    background-color: #201b26;
+}
+.text {
+    float: left;
+    padding-top: 40;
+    padding-right: 50;
+}
+
+.text h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+.text p {
+    color: white;
+    font-weight: 100;
+   
+}
+
+.release {
+    color: whitesmoke;
+}
+
+.release  p {
+    font-weight: lighter;
+    padding-top: 30;
+    padding-bottom: 30;
+}
+
+.watch-here {
+    font-size: 25;
+    position: absolute;
+    left: 800;
+    top: 900;
+}
